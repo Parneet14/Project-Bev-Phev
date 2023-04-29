@@ -1,0 +1,118 @@
+Year Make Model Fuel,BEV or PHEV,Vehicle Class,Year,Make,Model,Transmission,Recharge Time(h),Seating Capacity,Total range(km),Battery over 15 kWh ?,"BEV, PHEV > 15 kWh or PHEV < 15 kWh",Cylinders,Engine size (L),Fuel Type 1,Fuel Type 2,Incentive available,Purchase,12 m Lease,24 m Lease,36 m Lease,CO2  Rating,Cost per 100km ($),Max Incentive ($),Motor(KW),Price($),Range electricity (km),Range fuel (km),Smog Rating,CO2 Emissions(g/km),Total capacity Battery life(KWH)
+2020_BMW_745Le_PHEV,PHEV,Subcompact,2020,BMW,745Le,Automatic 1 Gear,3,4,461,No,PHEVs<15 kWh,6,3,Electricity,Premium Gasoline,No,0,0,0,0,8,13.6827138,0,83,122800,26,435,3,152,12
+2020_BMW_i8_PHEV,PHEV,Subcompact,2020,BMW,i8,Automatic with select shift 6 gears,3,4,517,No,PHEVs<15 kWh,3,1.5,Electricity,Premium Gasoline,No,0,0,0,0,9,10.6621806,0,105,148495,29,488,3,118,12
+2020_BMW_X 3_PHEV,PHEV,SUV: Small,2020,BMW,X 3,Automatic with select shift 8 gears,3,5,541,No,PHEVs<15 kWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,9,12.136305,0,80,52990,29,512,7,127,24
+2020_Kia_Niro Plug-in Hybrid_PHEV,PHEV,Station wagon: Small,2020,Kia,Niro Plug-in Hybrid,Automatic Manual with 6 gears,2.25,5,895,No,PHEVs<15 kWh,4,1.6,Electricity,Regular Gasoline,No,0,0,0,0,9,4.5468306,0,45,29490,42,853,7,56,8.9
+2020_Kia_Optima Plug-in Hybrid_PHEV,PHEV,Mid-size,2020,Kia,Optima Plug-in Hybrid,Automatic Manual with 6 gears,2.7,5,1007,No,PHEVs<15 kWh,4,2,Electricity,Regular Gasoline,No,0,0,0,0,8,4.8554235,0,50,43995,45,962,7,60,68
+2020_Lincoln_Aviator Grand Touring_PHEV,PHEV,SUV: Standard,2020,Lincoln,Aviator Grand Touring,Automatic with select shift 10 gears,3.5,5,747,No,PHEVs<15 kWh,6,3,Electricity,Regular Gasoline,No,0,0,0,0,9,10.030275,0,62,81900,34,713,7,130,13.6
+2020_Mercedes-Benz_GLC 350e 4MATIC_PHEV,PHEV,SUV: Small,2020,Mercedes-Benz,GLC 350e 4MATIC,Automatic  9 gears,1.3,5,573,No,PHEVs<15 kWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,8,10.680482,0,90,61200,35,538,5,109,13.5
+2020_Mercedes-Benz_S 560e_PHEV,PHEV,Full-size,2020,Mercedes-Benz,S 560e,Automatic  9 gears,1.3,5,816,No,PHEVs<15 kWh,6,3,Electricity,Premium Gasoline,No,0,0,0,0,9,12.2625753,0,90,110745,31,785,3,127,13.5
+2020_MINI_Cooper SE Countryman _PHEV,PHEV,Mid-size,2020,MINI,Cooper SE Countryman,Automatic with select shift 6 gears,3,5,480,Yes,PHEVs>15KWh,3,1.5,Electricity,Premium Gasoline,No,0,0,0,0,8,9.8132686,0,65,39990,29,451,3,109,10
+2020_Porsche_Panamera_PHEV,PHEV,Full-size,2020,Porsche,Panamera,Automatic  Manual with 8 gears8,3,5,791,Yes,PHEVs>15KWh,6,2.9,Electricity,Premium Gasoline,No,0,0,0,0,8,13.7986461,0,70,186100,23,768,5,158,17.9
+2020_Volvo_S60 T8 AWD_PHEV,PHEV,Compact,2020,Volvo,S60 T8 AWD,Automatic with select shift 8 gears,3,5,816,No,PHEVs<15 kWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,8,8.943135,0,65,45250,35,781,7,94,11.6
+2020_Volvo_S90 T8 AWD_PHEV,PHEV,Mid-size,2020,Volvo,S90 T8 AWD,Automatic with select shift 8 gears,3,5,795,No,PHEVs<15 kWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,8,9.2130444,0,65,60570,34,761,7,99,11.6
+2020_Volvo_V60 T8 AWD_PHEV,PHEV,Station wagon: Small,2020,Volvo,V60 T8 AWD,Automatic with select shift 8 gears,3,5,816,No,PHEVs<15 kWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,7,8.943135,0,65,67300,35,781,7,94,11.6
+2020_Volvo_XC60 T8 AWD_PHEV,PHEV,SUV: Small,2020,Volvo,XC60 T8 AWD,Automatic with select shift 8 gears,3,5,808,No,PHEVs<15 kWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,9,11.5180966,0,65,72200,27,781,7,128,11.6
+2020_Volvo_XC90 T8 AWD_PHEV,PHEV,SUV: Standard,2020,Volvo,XC90 T8 AWD,Automatic with select shift 8 gears,3,5,842,No,PHEVs<15 kWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,8,10.8846161,0,65,62623,29,813,7,120,11.6
+2021_Audi_A7_PHEV,PHEV,Mid-size,2021,Audi,A7,Automatic  Manual with 8 gears7,2.4,5,707,No,PHEVs<15 kWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,9,8.8026417,0,105,74900,39,668,7,87,14.1
+2021_Audi_A8_PHEV,PHEV,Full-size,2021,Audi,A8,Automatic with select shift 8 gears,2.4,5,668,No,PHEVs<15 kWh,6,3,Electricity,Premium Gasoline,No,0,0,0,0,8,12.6807092,0,100,95900,29,639,3,132,14.1
+2021_Audi_Q5_PHEV,PHEV,SUV: Small,2021,Audi,Q5,Automatic  Manual with 8 gears7,2.4,5,639,No,PHEVs<15 kWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,7,10.4676825,0,105,51900,31,608,7,103,14.1
+2021_Bentley_Bentayga _PHEV,PHEV,SUV: Standard,2021,Bentley,Bentayga,Automatic with select shift 8 gears,3,5,628,Yes,PHEVs>15KWh,6,3,Electricity,Premium Gasoline,No,0,0,0,0,7,15.5804555,0,100,157000,29,599,3,159,17.3
+2021_BMW_530e_PHEV,PHEV,Mid-size,2021,BMW,530e,Automatic with select shift 8 gears,3,5,554,No,PHEVs<15 kWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,9,10.2638238,0,83,57200,34,520,7,111,12
+2021_BMW_745Le_PHEV,PHEV,Full-size,2021,BMW,745Le,Automatic with select shift 8 gears,3,5,462,Yes,PHEVs>15KWh,6,3,Electricity,Premium Gasoline,No,0,0,0,0,8,13.5264762,0,83,95900,27,435,3,152,16.3
+2021_BMW_3 Drive30e_PHEV,PHEV,SUV: Small,2021,BMW,3 Drive30e,Automatic with select shift 8 gears,3,5,541,Yes,PHEVs>15KWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,9,12.1343649,0,80,49600,29,512,7,127,12
+2021_BMW_5 Drive45e_PHEV,PHEV,SUV: Standard,2021,BMW,5 Drive45e,Automatic with select shift 8 gears,5,5,650,No,PHEVs<15 kWh,6,3,Electricity,Premium Gasoline,No,0,0,0,0,9,10.67036,0,83,65400,50,600,7,111,24
+2021_Hyundai_Ioniq Plug-in Hybrid_PHEV,PHEV,Mid-size,2021,Hyundai,Ioniq Plug-in Hybrid,Automatic Manual with 6 gears,2.3,5,1001,Yes,PHEVs>15KWh,4,1.6,Electricity,Regular Gasoline,No,0,0,0,0,8,3.7668582,0,45,32649,47,954,7,46,8.9
+2021_Jeep_Wrangler 4 Xe_PHEV,PHEV,SUV: Small,2021,Jeep,Wrangler 4 Xe,Automatic 8 gears,2.4,5,592,No,PHEVs<15 kWh,4,2,Electricity,Regular Gasoline,No,0,0,0,0,8,11.254863,0,100,51025,35,557,5,143,15
+2021_Karma_GS-6_PHEV,PHEV,Subcompact,2021,Karma,GS-6,Automatic 1 Gear,6.25,4,526,Yes,PHEVs>15KWh,3,1.5,Electricity,Premium Gasoline,No,0,0,0,0,7,2.2569638,0,400,85700,98,428,7,44,28
+2021_Karma_Revero_PHEV,PHEV,Subcompact,2021,Karma,Revero,Automatic 1 Gear,6.25,4,526,Yes,PHEVs>15KWh,3,1.5,Electricity,Premium Gasoline,No,0,0,0,0,7,2.2569638,0,400,199700,98,428,7,44,28
+2021_Kia_Niro Plug-in Hybrid_PHEV,PHEV,Station wagon: Small,2021,Kia,Niro Plug-in Hybrid,Automatic Manual with 6 gears,2.25,5,895,No,PHEVs<15 kWh,4,1.6,Electricity,Regular Gasoline,No,0,0,0,0,9,4.5468306,0,45,30765,42,853,7,56,8.9
+2021_Lincoln_Aviator Grand Touring_PHEV,PHEV,SUV: Standard,2021,Lincoln,Aviator Grand Touring,Automatic with select shift 10 gears,3.5,5,747,No,PHEVs<15 kWh,6,3,Electricity,Regular Gasoline,No,0,0,0,0,9,10.0257258,0,62,81900,34,713,7,130,13.6
+2021_Lincoln_Corsair Grand Touring_PHEV,PHEV,SUV: Small,2021,Lincoln,Corsair Grand Touring,Automatic with select shift 6 gears,3.4,5,689,No,PHEVs<15 kWh,4,2.5,Electricity,Regular Gasoline,No,0,0,0,0,7,6.0815745,0,62,50390,45,644,7,73,14.4
+2021_MINI_Cooper SE Countryman _PHEV,PHEV,Mid-size,2021,MINI,Cooper SE Countryman,Continously Variable,3,5,480,No,PHEVs<15 kWh,3,1.5,Electricity,Premium Gasoline,No,0,0,0,0,9,9.8093884,0,65,47956,29,451,3,109,32.6
+2021_Polestar_1_PHEV,PHEV,Minicompact,2021,Polestar,1,Automatic with select shift 8 gears,9,4,755,Yes,PHEVs>15KWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,7,4.3886984,0,170,155000,84,671,5,54,18.1
+2021_Porsche_Cayenne_PHEV,PHEV,SUV: Standard,2021,Porsche,Cayenne,Automatic with select shift 8 gears,3,5,693,Yes,PHEVs>15KWh,6,3,Electricity,Premium Gasoline,No,0,0,0,0,7,14.2568987,0,99,103000,27,666,5,160,17.9
+2021_Porsche_Panamera_PHEV,PHEV,Full-size,2021,Porsche,Panamera,Automatic  Manual with 8 gears8,3,5,776,No,PHEVs<15 kWh,6,2.9,Electricity,Premium Gasoline,No,0,0,0,0,8,12.9680244,0,70,103800,31,745,5,144,17.9
+2021_Volvo_S60 T8 AWD_PHEV,PHEV,Compact,2021,Volvo,S60 T8 AWD,Automatic with select shift 8 gears,3,5,816,No,PHEVs<15 kWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,7,8.943135,0,65,83200,35,781,7,94,10.4
+2021_Volvo_S90 T8 AWD_PHEV,PHEV,Mid-size,2021,Volvo,S90 T8 AWD,Automatic with select shift 8 gears,3,5,795,Yes,PHEVs>15KWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,8,9.2130444,0,65,76050,34,761,7,99,11.6
+2021_Volvo_V60 T8 AWD_PHEV,PHEV,Station wagon: Small,2021,Volvo,V60 T8 AWD,Automatic with select shift 8 gears,3,5,816,No,PHEVs<15 kWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,8,8.943135,0,65,50900,35,781,7,94,11.6
+2021_Volvo_XC60 T8 AWD_PHEV,PHEV,SUV: Small,2021,Volvo,XC60 T8 AWD,Automatic with select shift 8 gears,3,5,800,No,PHEVs<15 kWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,9,11.2083879,0,65,73950,31,769,7,125,11.6
+2021_Volvo_XC90 T8 AWD_PHEV,PHEV,SUV: Standard,2021,Volvo,XC90 T8 AWD,Automatic with select shift 8 gears,3,5,842,No,PHEVs<15 kWh,4,2,Electricity,Premium Gasoline,No,0,0,0,0,9,10.8846161,0,65,86300,29,813,7,120,11.6
+2019_Audi_e-tron 55 quattro_BEV,BEV,SUV: Standard,2019,Audi,e-tron 55 quattro,Automatic 1 Gear,10,5,329,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.89327,0,300,65900,329,0,10,0,95
+2019_Jaguar_I-PACE_BEV,BEV,SUV: Small,2019,Jaguar,I-PACE,Automatic 1 Gear,13,5,377,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.83975,0,294,99800,377,0,10,0,85
+2019_Nissan_Leaf S Plus_BEV,BEV,Mid-size,2019,Nissan,Leaf S Plus,Automatic 1 Gear,11,5,363,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.30455,0,160,49498,363,0,10,0,62
+2019_Nissan_Leaf SV/SL Plus_BEV,BEV,Mid-size,2019,Nissan,Leaf SV/SL Plus,Automatic 1 Gear,11,5,349,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.338,0,160,46598,349,0,10,0,62
+2019_smart EQ_fortwo cabriolet_BEV,BEV,Two-seater,2019,smart EQ,fortwo cabriolet,Automatic 1 Gear,3,2,92,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.38483,0,60,32050,92,0,10,0,17.6
+2019_smart EQ_fortwo coupe_BEV,BEV,Two-seater,2019,smart EQ,fortwo coupe,Automatic 1 Gear,3,2,93,yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.29117,0,60,23900,93,0,10,0,17.6
+2019_Tesla_Model 3 Standard Range_BEV,BEV,Mid-size,2019,Tesla,Model 3 Standard Range,Automatic 1 Gear,3.7,5,151,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.04364,0,211,36000,151,0,10,0,50
+2019_Tesla_Model 3 Standard Range Plus_BEV,BEV,Mid-size,2019,Tesla,Model 3 Standard Range Plus,Automatic 1 Gear,8.5,5,386,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.05702,0,211,36000,386,0,10,0,51
+2019_Tesla_Model 3 Mid Range_BEV,BEV,Mid-size,2019,Tesla,Model 3 Mid Range,Automatic 1 Gear,10,5,425,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.14399,0,211,47200,425,0,10,0,65
+2019_Tesla_Model 3 Long Range_BEV,BEV,Mid-size,2019,Tesla,Model 3 Long Range,Automatic 1 Gear,10,5,499,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.07709,0,211,86200,499,0,10,0,79
+2019_Tesla_Model 3 Long Range AWD_BEV,BEV,Mid-size,2019,Tesla,Model 3 Long Range AWD,Automatic 1 Gear,10,5,499,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.2042,0,335,65990,499,0,10,0,79
+2019_Tesla_Model 3 Long Range AWD Performance_BEV,BEV,Mid-size,2019,Tesla,Model 3 Long Range AWD Performance,Automatic 1 Gear,10,5,499,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.2042,0,358,64990,499,0,10,0,79
+2019_Tesla_Model S 75D_BEV,BEV,Full-size,2019,Tesla,Model S 75D,Automatic 1 Gear,12,5,417,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.35807,0,386,86200,417,0,10,0,75
+2019_Tesla_Model S 100D_BEV,BEV,Full-size,2019,Tesla,Model S 100D,Automatic 1 Gear,12,5,539,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.37814,0,386,94000,539,0,10,0,100
+2019_Tesla_Model S P100D_BEV,BEV,Full-size,2019,Tesla,Model S P100D,Automatic 1 Gear,12,5,507,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.43835,0,568,98980,507,0,10,0,100
+2019_Tesla_Model S Standard Range_BEV,BEV,Full-size,2019,Tesla,Model S Standard Range,Automatic 1 Gear,9,5,459,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.28448,0,398,36000,459,0,10,0,75
+2019_Tesla_Model S Long Range_BEV,BEV,Full-size,2019,Tesla,Model S Long Range,Automatic 1 Gear,12,5,595,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.25772,0,398,86200,595,0,10,0,100
+2019_Tesla_Model S Performance _BEV,BEV,Full-size,2019,Tesla,Model S Performance,Automatic 1 Gear,12,5,555,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.35138,0,580,86200,555,0,10,0,100
+2019_Tesla_Model X 75D_BEV,BEV,SUV: Standard,2019,Tesla,Model X 75D,Automatic 1 Gear,12,7,383,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.50525,0,386,113610,383,0,10,0,75
+2019_Tesla_Model X 100D_BEV,BEV,SUV: Standard,2019,Tesla,Model X 100D,Automatic 1 Gear,12,7,475,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.6056,0,386,97000,475,0,10,0,100
+2019_Tesla_Model X P100D_BEV,BEV,SUV: Standard,2019,Tesla,Model X P100D,Automatic 1 Gear,12,7,465,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.64574,0,568,89990,465,0,10,0,100
+2019_Tesla_Model X Standard Range_BEV,BEV,SUV: Standard,2019,Tesla,Model X Standard Range,Automatic 1 Gear,9,7,410,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.38483,0,398,89990,410,0,10,0,75
+2019_Tesla_Model X Long Range_BEV,BEV,SUV: Standard,2019,Tesla,Model X Long Range,Automatic 1 Gear,12,7,523,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.45842,0,398,126910,523,0,10,0,100
+2019_Tesla_Model X Performance _BEV,BEV,SUV: Standard,2019,Tesla,Model X Performance,Automatic 1 Gear,12,7,491,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.55877,0,580,83000,491,0,10,0,100
+2020_Audi_A3 Sportback e-tron_BEV,BEV,SUV: Standard,2020,Audi,A3 Sportback e-tron,Automatic 1 Gear,10,5,351,yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.82637,0,300,93200,351,0,10,0,95
+2020_Hyundai_Kona Electric_BEV,BEV,SUV: Small,2020,Hyundai,Kona Electric,Automatic 1 Gear,9,5,415,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.16406,0,150,34000,415,0,10,0,64
+2020_Jaguar_I-PACE_BEV,BEV,SUV: Small,2020,Jaguar,I-PACE,Automatic 1 Gear,13,5,377,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.83975,0,294,99800,377,0,10,0,90
+2020_Nissan_Leaf S Plus_BEV,BEV,Mid-size,2020,Nissan,Leaf S Plus,Automatic 1 Gear,11,5,363,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.30455,0,160,48960,363,0,10,0,62
+2020_Nissan_Leaf SV/SL Plus_BEV,BEV,Mid-size,2020,Nissan,Leaf SV/SL Plus,Automatic 1 Gear,11,5,349,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.338,0,160,51052,349,0,10,0,62
+2020_Porsche_Taycan 4S (Performance Battery Plus)_BEV,BEV,Compact,2020,Porsche,Taycan 4S (Performance Battery Plus),Automatic 1 Gear,10.5,4,327,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,2.02707,0,360,186350,327,0,10,0,83.7
+2020_Porsche_Taycan Turbo_BEV,BEV,Compact,2020,Porsche,Taycan Turbo,Automatic 1 Gear,10,4,323,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,2.02038,0,460,151900,323,0,10,0,93.4
+2020_Tesla_Model 3 Standard Range_BEV,BEV,Mid-size,2020,Tesla,Model 3 Standard Range,Automatic 1 Gear,3.7,5,151,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.04364,0,211,39490,151,0,10,0,82
+2020_Tesla_Model 3 Standard Range Plus_BEV,BEV,Mid-size,2020,Tesla,Model 3 Standard Range Plus,Automatic 1 Gear,8.5,5,402,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,0.99681,0,211,39490,402,0,10,0,51
+2020_Tesla_Model 3 Mid Range_BEV,BEV,Mid-size,2020,Tesla,Model 3 Mid Range,Automatic 1 Gear,10,5,425,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.14399,0,211,47200,425,0,10,0,33.7
+2020_Tesla_Model 3 Long Range_BEV,BEV,Mid-size,2020,Tesla,Model 3 Long Range,Automatic 1 Gear,10,5,531,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.07709,0,211,48490,531,0,10,0,79
+2020_Tesla_Model 3 Long Range AWD_BEV,BEV,Mid-size,2020,Tesla,Model 3 Long Range AWD,Automatic 1 Gear,10,5,518,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.16406,0,335,48490,518,0,10,0,79.5
+2020_Tesla_Model 3 Long Range AWD Performance _BEV,BEV,Mid-size,2020,Tesla,Model 3 Long Range AWD Performance,Automatic 1 Gear,10,5,518,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.16406,0,358,48490,518,0,10,0,79.5
+2020_Tesla_Model S Standard Range_BEV,BEV,Full-size,2020,Tesla,Model S Standard Range,Automatic 1 Gear,9,5,462,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.28448,0,398,41190,462,0,10,0,95
+2020_Tesla_Model S Long Range_BEV,BEV,Full-size,2020,Tesla,Model S Long Range,Automatic 1 Gear,12,5,600,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.25772,0,398,133700,600,0,10,0,95
+2020_Tesla_Model S Long Range Plus _BEV,BEV,Full-size,2020,Tesla,Model S Long Range Plus,Automatic 1 Gear,12,5,629,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.2042,0,398,133700,629,0,10,0,100
+2020_Tesla_Model S Performance_BEV,BEV,Full-size,2020,Tesla,Model S Performance,Automatic 1 Gear,12,5,560,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.35138,0,580,80000,560,0,10,0,100
+2020_Tesla_Model X Standard Range_BEV,BEV,SUV: Standard,2020,Tesla,Model X Standard Range,Automatic 1 Gear,9,7,415,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.38483,0,398,81190,415,0,10,0,100
+2020_Tesla_Model X Long Range_BEV,BEV,SUV: Standard,2020,Tesla,Model X Long Range,Automatic 1 Gear,12,7,528,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.45842,0,398,114700,528,0,10,0,100
+2020_Tesla_Model X Long Range Plus_BEV,BEV,SUV: Standard,2020,Tesla,Model X Long Range Plus,Automatic 1 Gear,12,7,565,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.338,0,398,114700,565,0,10,0,100
+2020_Tesla_Model X Performance _BEV,BEV,SUV: Standard,2020,Tesla,Model X Performance,Automatic 1 Gear,12,7,491,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.55877,0,580,140700,491,0,10,0,100
+2020_Tesla_Model Y Long Range AWD_BEV,BEV,SUV: Small,2020,Tesla,Model Y Long Range AWD,Automatic 1 Gear,10,7,509,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.15737,0,358,69990,509,0,10,0,75
+2020_Tesla_Model Y Performance _BEV,BEV,SUV: Small,2020,Tesla,Model Y Performance,Automatic 1 Gear,10,7,468,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.26441,0,358,62190,468,0,10,0,77
+2021_Audi_e-tron 55 quattro_BEV,BEV,SUV: Standard,2021,Audi,e-tron 55 quattro,Automatic 1 Gear,10,5,357,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.8063,0,300,65900,357,0,10,0,95
+2021_Audi_A3 Sportback e-tron_BEV,BEV,SUV: Standard,2021,Audi,A3 Sportback e-tron,Automatic 1 Gear,10,5,351,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.82637,0,300,69100,351,0,10,0,88
+2021_Ford_Mustang_BEV,BEV,Station wagon: Small,2021,Ford,Mustang,Automatic 1 Gear,8.8,5,370,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.4049,0,198,58500,370,0,10,0,98.88
+2021_Nissan_Leaf S Plus_BEV,BEV,Mid-size,2021,Nissan,Leaf S Plus,Automatic 1 Gear,11,5,363,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.30455,0,160,40470,363,0,10,0,62
+2021_Nissan_Leaf SV/SL Plus_BEV,BEV,Mid-size,2021,Nissan,Leaf SV/SL Plus,Automatic 1 Gear,11,5,349,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.338,0,160,28800,349,0,10,0,62
+2021_Polestar_2_BEV,BEV,Mid-size,2021,Polestar,2,Automatic 1 Gear,8,5,375,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.52532,0,300,67400,375,0,10,0,78
+2021_Porsche_Taycan 4S (Performance Battery)_BEV,BEV,Compact,2021,Porsche,Taycan 4S (Performance Battery),Automatic 1 Gear,9.5,5,320,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.76616,0,320,103800,320,0,10,0,79.2
+2021_Porsche_Taycan 4S (Performance Battery Plus)_BEV,BEV,Compact,2021,Porsche,Taycan 4S (Performance Battery Plus),Automatic 1 Gear,10.5,5,365,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.82637,0,360,109370,365,0,10,0,93.4
+2021_Porsche_Taycan Turbo_BEV,BEV,Compact,2021,Porsche,Taycan Turbo,Automatic 1 Gear,10.5,5,341,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.91334,0,460,150900,341,0,10,0,93.4
+2021_Porsche_Taycan Turbo S_BEV,BEV,Compact,2021,Porsche,Taycan Turbo S,Automatic 1 Gear,10.5,5,323,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,2.00031,0,460,185000,323,0,10,0,93.4
+2021_Porsche_Taycan 4 Cross Turismo_BEV,BEV,Mid-size,2021,Porsche,Taycan 4 Cross Turismo,Automatic 1 Gear,10.5,5,346,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.83306,0,280,90900,346,0,10,0,93.4
+2021_Porsche_Taycan 4S Cross Turismo_BEV,BEV,Mid-size,2021,Porsche,Taycan 4S Cross Turismo,Automatic 1 Gear,10.5,5,346,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.8732,0,360,110300,346,0,10,0,93.4
+2021_Porsche_Taycan Turbo Cross Turismo_BEV,BEV,Mid-size,2021,Porsche,Taycan Turbo Cross Turismo,Automatic 1 Gear,10.5,5,328,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.94679,0,460,153500,328,0,10,0,93.4
+2021_Porsche_Taycan Turbo S Cross Turismo_BEV,BEV,Mid-size,2021,Porsche,Taycan Turbo S Cross Turismo,Automatic 1 Gear,10.5,5,325,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.91334,0,460,187600,325,0,10,0,93.4
+2021_Tesla_Model 3 Standard Range_BEV,BEV,Mid-size,2021,Tesla,Model 3 Standard Range,Automatic 1 Gear,3.7,5,151,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.01688,0,211,69600,151,0,10,0,50
+2021_Tesla_Model 3 Standard Range Plus_BEV,BEV,Mid-size,2021,Tesla,Model 3 Standard Range Plus,Automatic 1 Gear,8.5,5,423,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,0.99012,0,211,39990,423,0,10,0,54
+2021_Tesla_Model 3 Long Range AWD_BEV,BEV,Mid-size,2021,Tesla,Model 3 Long Range AWD,Automatic 1 Gear,10,5,568,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.04364,0,335,49990,568,0,10,0,75
+2021_Tesla_Model 3 Performance_BEV,BEV,Mid-size,2021,Tesla,Model 3 Performance,Automatic 1 Gear,10,5,507,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.24434,0,358,56990,507,0,10,0,82
+2021_Tesla_Model S Long Range_BEV,BEV,Full-size,2021,Tesla,Model S Long Range,Automatic 1 Gear,15,5,652,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.17075,0,494,89990,652,0,10,0,100
+2021_Tesla_Model S Long Range Plus_BEV,BEV,Full-size,2021,Tesla,Model S Long Range Plus,Automatic 1 Gear,12,5,629,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.24434,0,398,91190,629,0,10,0,100
+2021_Tesla_Model S Performance _BEV,BEV,Full-size,2021,Tesla,Model S Performance,Automatic 1 Gear,12,5,623,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.2711,0,580,123700,623,0,10,0,95
+2021_Tesla_Model S Plaid _BEV,BEV,Full-size,2021,Tesla,Model S Plaid,Automatic 1 Gear,15,5,637,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.21089,0,750,121190,637,0,10,0,100
+2021_Tesla_Model X Long Range Plus_BEV,BEV,SUV: Standard,2021,Tesla,Model X Long Range Plus,Automatic 1 Gear,12,7,597,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.33131,0,398,123600,597,0,10,0,95
+2021_Tesla_Model X Performance _BEV,BEV,SUV: Standard,2021,Tesla,Model X Performance,Automatic 1 Gear,12,7,549,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.43835,0,580,111700,549,0,10,0,100
+2021_Tesla_Model Y Standard Range_BEV,BEV,SUV: Small,2021,Tesla,Model Y Standard Range,Automatic 1 Gear,8,7,393,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.08378,0,211,54900,393,0,10,0,75
+2021_Tesla_Model Y Long Range AWD_BEV,BEV,SUV: Small,2021,Tesla,Model Y Long Range AWD,Automatic 1 Gear,10,7,525,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.12392,0,358,60990,525,0,10,0,75
+2021_Tesla_Model Y Performance_BEV,BEV,SUV: Small,2021,Tesla,Model Y Performance,Automatic 1 Gear,10,7,488,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.26441,0,358,62190,488,0,10,0,75
+2021_Volkswagen_ID.4 Pro_BEV,BEV,SUV: Small,2021,Volkswagen,ID.4 Pro,Automatic 1 Gear,7.5,5,400,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.45173,0,150,39995,400,0,10,0,52
+2021_Volkswagen_ID.4 AWD Pro_BEV,BEV,SUV: Small,2021,Volkswagen,ID.4 AWD Pro,Automatic 1 Gear,7.5,5,386,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.50525,0,220,43675,386,0,10,0,82
+2021_Volvo_XC40 Recharge_BEV,BEV,SUV: Small,2021,Volvo,XC40 Recharge,Automatic 1 Gear,8,5,335,Yes,BEV,,,Electricity,None,No,0,0,0,0,10,1.77954,0,300,64950,335,0,10,0,78
+2022_Chevrolet_Bolt_EUV_BEV,BEV,Subcompact,2022,Chevrolet,Bolt EUV,Automatic 1 Gear,4,5,385,Yes,BEV,,,Electricity,Premium Gasoline,No,0,0,0,0,10,1.1546,0,90,40198,385,,10,0,60

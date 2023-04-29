@@ -1,0 +1,118 @@
+Year Make Model Fuel,Price($)
+2020_BMW_745Le_PHEV,122800
+2020_BMW_i8_PHEV,148495
+2020_BMW_X 3_PHEV,52990
+2020_Kia_Niro Plug-in Hybrid_PHEV,29490
+2020_Kia_Optima Plug-in Hybrid_PHEV,43995
+2020_Lincoln_Aviator Grand Touring_PHEV,81900
+2020_Mercedes-Benz_GLC 350e 4MATIC_PHEV,61200
+2020_Mercedes-Benz_S 560e_PHEV,110745
+2020_MINI_Cooper SE Countryman _PHEV,39990
+2020_Porsche_Panamera_PHEV,186100
+2020_Volvo_S60 T8 AWD_PHEV,45250
+2020_Volvo_S90 T8 AWD_PHEV,60570
+2020_Volvo_V60 T8 AWD_PHEV,67300
+2020_Volvo_XC60 T8 AWD_PHEV,72200
+2020_Volvo_XC90 T8 AWD_PHEV,62623
+2021_Audi_A7_PHEV,74900
+2021_Audi_A8_PHEV,95900
+2021_Audi_Q5_PHEV,51900
+2021_Bentley_Bentayga _PHEV,157000
+2021_BMW_530e_PHEV,57200
+2021_BMW_745Le_PHEV,95900
+2021_BMW_3 Drive30e_PHEV,49600
+2021_BMW_5 Drive45e_PHEV,65400
+2021_Hyundai_Ioniq Plug-in Hybrid_PHEV,32649
+2021_Jeep_Wrangler 4 Xe_PHEV,51025
+2021_Karma_GS-6_PHEV,85700
+2021_Karma_Revero_PHEV,199700
+2021_Kia_Niro Plug-in Hybrid_PHEV,30765
+2021_Lincoln_Aviator Grand Touring_PHEV,81900
+2021_Lincoln_Corsair Grand Touring_PHEV,50390
+2021_MINI_Cooper SE Countryman _PHEV,47956
+2021_Polestar_1_PHEV,155000
+2021_Porsche_Cayenne_PHEV,103000
+2021_Porsche_Panamera_PHEV,103800
+2021_Volvo_S60 T8 AWD_PHEV,83200
+2021_Volvo_S90 T8 AWD_PHEV,76050
+2021_Volvo_V60 T8 AWD_PHEV,50900
+2021_Volvo_XC60 T8 AWD_PHEV,73950
+2021_Volvo_XC90 T8 AWD_PHEV,86300
+2019_Audi_e-tron 55 quattro_BEV,65900
+2019_Jaguar_I-PACE_BEV,99800
+2019_Nissan_Leaf S Plus_BEV,49498
+2019_Nissan_Leaf SV/SL Plus_BEV,46598
+2019_smart EQ_fortwo cabriolet_BEV,32050
+2019_smart EQ_fortwo coupe_BEV,23900
+2019_Tesla_Model 3 Standard Range_BEV,36000
+2019_Tesla_Model 3 Standard Range Plus_BEV,36000
+2019_Tesla_Model 3 Mid Range_BEV,47200
+2019_Tesla_Model 3 Long Range_BEV,86200
+2019_Tesla_Model 3 Long Range AWD_BEV,65990
+2019_Tesla_Model 3 Long Range AWD Performance_BEV,64990
+2019_Tesla_Model S 75D_BEV,86200
+2019_Tesla_Model S 100D_BEV,94000
+2019_Tesla_Model S P100D_BEV,98980
+2019_Tesla_Model S Standard Range_BEV,36000
+2019_Tesla_Model S Long Range_BEV,86200
+2019_Tesla_Model S Performance _BEV,86200
+2019_Tesla_Model X 75D_BEV,113610
+2019_Tesla_Model X 100D_BEV,97000
+2019_Tesla_Model X P100D_BEV,89990
+2019_Tesla_Model X Standard Range_BEV,89990
+2019_Tesla_Model X Long Range_BEV,126910
+2019_Tesla_Model X Performance _BEV,83000
+2020_Audi_A3 Sportback e-tron_BEV,93200
+2020_Hyundai_Kona Electric_BEV,34000
+2020_Jaguar_I-PACE_BEV,99800
+2020_Nissan_Leaf S Plus_BEV,48960
+2020_Nissan_Leaf SV/SL Plus_BEV,51052
+2020_Porsche_Taycan 4S (Performance Battery Plus)_BEV,186350
+2020_Porsche_Taycan Turbo_BEV,151900
+2020_Tesla_Model 3 Standard Range_BEV,39490
+2020_Tesla_Model 3 Standard Range Plus_BEV,39490
+2020_Tesla_Model 3 Mid Range_BEV,47200
+2020_Tesla_Model 3 Long Range_BEV,48490
+2020_Tesla_Model 3 Long Range AWD_BEV,48490
+2020_Tesla_Model 3 Long Range AWD Performance _BEV,48490
+2020_Tesla_Model S Standard Range_BEV,41190
+2020_Tesla_Model S Long Range_BEV,133700
+2020_Tesla_Model S Long Range Plus _BEV,133700
+2020_Tesla_Model S Performance_BEV,80000
+2020_Tesla_Model X Standard Range_BEV,81190
+2020_Tesla_Model X Long Range_BEV,114700
+2020_Tesla_Model X Long Range Plus_BEV,114700
+2020_Tesla_Model X Performance _BEV,140700
+2020_Tesla_Model Y Long Range AWD_BEV,69990
+2020_Tesla_Model Y Performance _BEV,62190
+2021_Audi_e-tron 55 quattro_BEV,65900
+2021_Audi_A3 Sportback e-tron_BEV,69100
+2021_Ford_Mustang_BEV,58500
+2021_Nissan_Leaf S Plus_BEV,40470
+2021_Nissan_Leaf SV/SL Plus_BEV,28800
+2021_Polestar_2_BEV,67400
+2021_Porsche_Taycan 4S (Performance Battery)_BEV,103800
+2021_Porsche_Taycan 4S (Performance Battery Plus)_BEV,109370
+2021_Porsche_Taycan Turbo_BEV,150900
+2021_Porsche_Taycan Turbo S_BEV,185000
+2021_Porsche_Taycan 4 Cross Turismo_BEV,90900
+2021_Porsche_Taycan 4S Cross Turismo_BEV,110300
+2021_Porsche_Taycan Turbo Cross Turismo_BEV,153500
+2021_Porsche_Taycan Turbo S Cross Turismo_BEV,187600
+2021_Tesla_Model 3 Standard Range_BEV,69600
+2021_Tesla_Model 3 Standard Range Plus_BEV,39990
+2021_Tesla_Model 3 Long Range AWD_BEV,49990
+2021_Tesla_Model 3 Performance_BEV,56990
+2021_Tesla_Model S Long Range_BEV,89990
+2021_Tesla_Model S Long Range Plus_BEV,91190
+2021_Tesla_Model S Performance _BEV,123700
+2021_Tesla_Model S Plaid _BEV,121190
+2021_Tesla_Model X Long Range Plus_BEV,123600
+2021_Tesla_Model X Performance _BEV,111700
+2021_Tesla_Model Y Standard Range_BEV,54900
+2021_Tesla_Model Y Long Range AWD_BEV,60990
+2021_Tesla_Model Y Performance_BEV,62190
+2021_Volkswagen_ID.4 Pro_BEV,39995
+2021_Volkswagen_ID.4 AWD Pro_BEV,43675
+2021_Volvo_XC40 Recharge_BEV,64950
+2022_Chevrolet_Bolt_EUV_BEV,40198
